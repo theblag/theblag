@@ -1,11 +1,9 @@
 <h1 >Hi 👋, I'm Aditya A</h1>
-<h3 >A passionate Computer Science student and Web Developer</h3>
+<h3 >A Computer Science student and Web Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, and Blender**
+- 🌱 I’m currently learning **JavaScript,Python, and Blender**
 - 💻 Most of my projects are available on [My GitHub Repositories](https://github.com/theblag?tab=repositories)
-- 🔭 I’m working on a **Password Manager** and a **CampusMart Website**
 - 📫 How to reach me: **adityaarun2006@gmail.com**
-- ⚡ Fun fact: I love solving problems and building things from scratch!
 
 ---
 
