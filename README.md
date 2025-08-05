@@ -1,12 +1,13 @@
 <h1 >Hi 👋, I'm Aditya A</h1>
 <h3 >A Computer Science student and Web Developer</h3>
+![Welcome](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I+am+Aditya+A.;CS+Student+%7C+Web+Dev+%7C+3D+Designer;&center=true&width=500&height=30)
+
 
 - 🌱 I’m currently learning **JavaScript,Python, and Blender**
 - 💼 Take a look at my [Portfolio](https://aditya-a-portfolio.vercel.app)
 - 💻 Most of my projects are available on [My GitHub Repositories](https://github.com/theblag?tab=repositories)
 - 📫 How to reach me: **adityaarun2006@gmail.com**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -42,11 +43,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
 
 ### 📫 Connect with Me
 
 <p align="left">
   <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aditya-a-664089332/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="adityaarun2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  
 </p>
