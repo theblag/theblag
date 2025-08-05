@@ -47,6 +47,6 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aditya-a-664089332/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="(https://www.linkedin.com/in/aditya-a-664089332/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   
 </p>
