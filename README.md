@@ -9,8 +9,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Coding+my+way+through+life+👨‍💻;From+JavaScript+to+Blender+🎨;Always+learning+something+new+🚀;&center=true&width=500&height=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&width=435&lines=Hi+there!+👋;I'm+Aditya+A.;CS+Undergrad+%7C+Web+Dev+%7C+3D+Artist" alt="Typing SVG" />
 </p>
+
 
 
 
