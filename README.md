@@ -44,6 +44,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theblag&layout=compact&theme=tokyonight)
+
+
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-a-664089332/)
