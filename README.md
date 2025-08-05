@@ -8,12 +8,6 @@
 - 📫 How to reach me: **adityaarun2006@gmail.com**
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&width=435&lines=Hi+there!+👋;I'm+Aditya+A.;CS+Undergrad+%7C+Web+Dev+%7C+3D+Artist" alt="Typing SVG" />
-</p>
-
-
-
 
 ## 🛠️ Tech Stack
 
