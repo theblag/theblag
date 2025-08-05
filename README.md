@@ -1,12 +1,17 @@
 <h1 >Hi 👋, I'm Aditya A</h1>
 <h3 >A Computer Science student and Web Developer</h3>
-![Welcome](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I+am+Aditya+A.;CS+Student+%7C+Web+Dev+%7C+3D+Designer;&center=true&width=500&height=30)
 
 
 - 🌱 I’m currently learning **JavaScript,Python, and Blender**
 - 💼 Take a look at my [Portfolio](https://aditya-a-portfolio.vercel.app)
 - 💻 Most of my projects are available on [My GitHub Repositories](https://github.com/theblag?tab=repositories)
 - 📫 How to reach me: **adityaarun2006@gmail.com**
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Coding+my+way+through+life+👨‍💻;From+JavaScript+to+Blender+🎨;Always+learning+something+new+🚀;&center=true&width=500&height=30" alt="Typing SVG" />
+</p>
+
 
 
 ## 🛠️ Tech Stack
