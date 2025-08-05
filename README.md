@@ -44,9 +44,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-### 📫 Connect with Me
+## 🌐 Connect with me
 
-<p align="left">
-  <a href="(https://www.linkedin.com/in/aditya-a-664089332/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-a-664089332/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/adityaarun._.10/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://aditya-a-portfolio.vercel.app)
+
