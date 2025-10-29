@@ -1,8 +1,8 @@
-<h1 >Hey, I'm Aditya</h1>
+<h1 >✨ Hey, I'm Aditya 🌌</h1>
 <h3 >A Computer Science student and Web Developer</h3>
 
 
-- 🌱 I’m currently learning **JavaScript,Python, and Blender**
+- 📚 I’m currently learning **JavaScript,Python, and Blender**
 - 💼 Take a look at my [Portfolio](https://aditya-a-portfolio.vercel.app)
 - 💻 Most of my projects are available on [My GitHub Repositories](https://github.com/theblag?tab=repositories)
 - 📫 How to reach me: **adityaarun2006@gmail.com**
