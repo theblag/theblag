@@ -1,7 +1,8 @@
 <h1 >✨ Hey, I'm Aditya 🌌</h1>
-<h3 >A Computer Science student and Web Developer</h3>
+<h3 >A Computer Science student and Full Stack Developer</h3>
 
-
+- 🏢 Full Stack Developer Intern @theMonks.tech
+- 🏆 Google Cloud Gen AI Exchange Hackathon Runner Up
 - 📚 I’m currently learning **JavaScript,Python, and Blender**
 - 💼 Take a look at my [Portfolio](https://aditya-a-portfolio.vercel.app)
 - 💻 Most of my projects are available on [My GitHub Repositories](https://github.com/theblag?tab=repositories)
