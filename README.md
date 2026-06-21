@@ -2,7 +2,7 @@
 
 ### Computer Science student and Full Stack Developer
 
-- 🏢 Full Stack Developer Intern @theMonks.tech
+- 🏢 Software Developer Intern (Full Stack) @theMonks.tech
 - 🏆 Google Cloud Gen AI Exchange Hackathon Runner Up
 - 💼 Take a look at my [Portfolio](https://aditya-a-portfolio.vercel.app)
 - 💻 Most of my projects are available on [My GitHub Repositories](https://github.com/theblag?tab=repositories)
