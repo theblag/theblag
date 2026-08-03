@@ -70,6 +70,7 @@
 ## 🏆 GirlScript Summer of Code (GSSoC) Badges
 
 <p align="center">
+  <img src="./gssoc-badge-gssoc_champion.png" width="220" alt="GSSoC Elite Badge" />
   <img src="./gssoc-badge-elite.png" width="220" alt="GSSoC Elite Badge" />
   <img src="./gssoc-badge-on_a_roll.png" width="220" alt="GSSoC On a Roll Badge" />
   <img src="./gssoc-badge-power_contributor.png" width="220" alt="GSSoC Power Contributor Badge" />
