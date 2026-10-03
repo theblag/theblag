@@ -67,13 +67,15 @@
 
 
 
-## 🏆 GirlScript Summer of Code (GSSoC) Badges
+## 🏆 Badges
 
 <p align="center">
-  <img src="./gssoc-badge-gssoc_champion.png" width="220" alt="GSSoC Elite Badge" />
+  <img src="./gssoc-badge-gssoc_champion.png" width="220" alt="GSSoC Champion Badge" />
   <img src="./gssoc-badge-elite.png" width="220" alt="GSSoC Elite Badge" />
   <img src="./gssoc-badge-on_a_roll.png" width="220" alt="GSSoC On a Roll Badge" />
   <img src="./gssoc-badge-power_contributor.png" width="220" alt="GSSoC Power Contributor Badge" />
+  <img src="./OCI25AICFA.jpeg" width="220" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" />
+  <img src="./badge campus ambassador (1).png" width="220" alt="Hack2Skill Campus Ambassador Badge" />
 </p>
 
 
