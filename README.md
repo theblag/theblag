@@ -69,13 +69,24 @@
 
 ## 🏆 Badges
 
+### ☁️ Cloud & Certifications
 <p align="center">
-  <img src="./gssoc-badge-gssoc_champion.png" width="220" alt="GSSoC Champion Badge" />
-  <img src="./gssoc-badge-elite.png" width="220" alt="GSSoC Elite Badge" />
-  <img src="./gssoc-badge-on_a_roll.png" width="220" alt="GSSoC On a Roll Badge" />
-  <img src="./gssoc-badge-power_contributor.png" width="220" alt="GSSoC Power Contributor Badge" />
-  <img src="./OCI25AICFA.jpeg" width="220" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" />
-  <img src="./badge campus ambassador (1).png" width="220" alt="Hack2Skill Campus Ambassador Badge" />
+  <img src="./badges/prepare-data-for-ml-apis-on-google-cloud-skill-badg.png" width="220" alt="Prepare Data for ML APIs on Google Cloud" />
+  <img src="./badges/automate-data-capture-at-scale-with-document-ai-ski.png" width="220" alt="Automate Data Capture at Scale with Document AI" />
+  <img src="./badges/OCI25AICFA.jpeg" width="220" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" />
+</p>
+
+### 💻 Open Source (GSSoC)
+<p align="center">
+  <img src="./badges/gssoc-badge-gssoc_champion.png" width="220" alt="GSSoC Champion Badge" />
+  <img src="./badges/gssoc-badge-power_contributor.png" width="220" alt="GSSoC Power Contributor Badge" />
+  <img src="./badges/gssoc-badge-on_a_roll.png" width="220" alt="GSSoC On a Roll Badge" />
+</p>
+
+### 🌟 Hackathons & Community
+<p align="center">
+  <img src="./badges/GenAItop100.png" width="220" alt="Google Cloud Gen AI Exchange Hackathon Top 100 Finalists" />
+  <img src="./badges/badge campus ambassador (1).png" width="220" alt="Hack2Skill Campus Ambassador Badge" />
 </p>
 
 
