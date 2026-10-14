@@ -1,6 +1,6 @@
 ![Header](./banner.png)
 
-### Computer Science student and Full Stack Developer
+### Computer Science Student and Software Developer
 
 - 🏢 Ex - SWE Intern @theMonks.tech
 - 🏆 Google Cloud Gen AI Exchange Hackathon Runner Up
