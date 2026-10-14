@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=theblag&layout=compact&theme=radical&logo=none&logo_color=yellow&hide_border=true&card_width=300px" />
   <img src="https://github-trophies.devomb.com/?username=theblag&theme=radical&no-frame=true&margin-w=4&column=6&row=1" />
   <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=theblag&theme=radical&hide_rank=true&hide_border=true&card_width=200px" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theblag&theme=react-dark" />
+  <img src="https://github-activity-chart.vercel.app/graph?username=theblag&theme=react-dark" />
 
 </div>
 
