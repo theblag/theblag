@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="4" viewBox="0 0 250 4" fill="none">
+  <defs>
+    <linearGradient id="sageGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2D5A3A" stop-opacity="0.3"/>
+      <stop offset="25%" stop-color="#84A98C"/>
+      <stop offset="50%" stop-color="#A3C9A8"/>
+      <stop offset="75%" stop-color="#84A98C"/>
+      <stop offset="100%" stop-color="#2D5A3A" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="250" height="4" rx="2" fill="url(#sageGlow)"/>
+</svg>
