@@ -4,7 +4,7 @@
 
 ### 🌿 Computer Science Student & Software Developer
 
-🏢 Ex-SWE Intern **@theMonks.tech** &nbsp;|&nbsp; 🏆 Google Cloud Gen AI Hackathon **3rd Runner Up** &nbsp;|&nbsp; 💼 **[Portfolio](https://aditya-a-portfolio.vercel.app)** &nbsp;|&nbsp; 💻 **[Projects](https://github.com/theblag?tab=repositories)** &nbsp;|&nbsp; 📫 **[Email](mailto:adityaarun2006@gmail.com)**
+🏢 Ex-SWE Intern **@theMonks.tech** &nbsp;|&nbsp; 🏆 Google Cloud Gen AI Hackathon **3rd Runner Up** &nbsp;| &nbsp; 👨‍💻 GSSOC'26 **Top 1%** Contributor &nbsp;| &nbsp;  <br> 💼 **[Portfolio](https://aditya-a-portfolio.vercel.app)** &nbsp;|&nbsp; 💻 **[Projects](https://github.com/theblag?tab=repositories)** &nbsp;|&nbsp; 📫 **[Email](mailto:adityaarun2006@gmail.com)**
 
 <br/>
 
